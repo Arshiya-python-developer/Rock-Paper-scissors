@@ -79,9 +79,7 @@ while True:
     cv2.putText(imgBg, str(Score[0]), (410, 215), cv2.FONT_HERSHEY_PLAIN, 4, (255, 255, 255), 6)
     cv2.putText(imgBg, str(Score[1]), (1112, 215), cv2.FONT_HERSHEY_PLAIN, 4, (255, 255, 255), 6)
 
-    #cv2.imshow("image",img)
     cv2.imshow("BG",imgBg)
-    #cv2.imshow("scaled",imgScaled)
     key = cv2.waitKey(1)
     if key == ord('A'):
         startGame = True
