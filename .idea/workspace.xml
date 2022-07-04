@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4f0c72b-cc4e-4e5d-93d7-494d78038a54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiproject/.idea/Guiproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiproject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiproject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiproject/Tic-Tac-Toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Guiproject/helloWithpyqt5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-detection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-detection/.idea/Object-detection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-detection/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-detection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-detection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-detection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/.idea/Object-oriented-programming in python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/Inheritence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/Python/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/Python/startPython/.idea/startPython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/Zip function().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/abstract class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/dictionary comprehesion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/duck typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/functions to variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/higher order function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/if __name__ == __main__/module_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/if __name__ == __main__/module_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/list-comprehesion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/method chaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/multi-level inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/multiple  inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/object as argument.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/quiz game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/reduce().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/sorted() method or function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/super function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/time modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming in python/warlus oprator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/.idea/students project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/finds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/indoor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/overloading functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/score_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../students project/scrapp data.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BSr7rd3eJs9uB4Mba5J5kUPUvQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/FasleJadid/Desktop/Rock-Paper-scissors",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FasleJadid\Desktop\Rock-Paper-scissors\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="HandTrackingModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tic tac toe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/pythonProject/venv/Lib/site-packages/cvzone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/Lib/site-packages/cvzone/HandTrackingModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Tic tac toe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HandTrackingModule" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4f0c72b-cc4e-4e5d-93d7-494d78038a54" name="Changes" comment="" />
+      <created>1656910162532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656910162532</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/PycharmProjects/pythonProject/venv/Lib/site-packages/cvzone/HandTrackingModule.py</url>
+          <line>157</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
